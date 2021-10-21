@@ -1,0 +1,58 @@
+
+
+p {
+
+    padding: 25px;
+    line-height: 34px;
+    font-size: 20px;
+    color: #171717;
+    font-family: 'Lato', sans-serif;
+   
+}
+.leter {
+    
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+
+.leter:first-letter {
+    color: rgb(5, 5, 4);
+    font-size: 80px;
+    font-family: 'Playfair Display', serif;
+}
+   
+body {
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 30px;
+    
+}
+
+
+h1 {
+    font-family: 'Playfair Display', serif;
+     margin: 30px;
+}
+
+.text {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: #171717;
+    
+}
+
+button {
+    border: 3px solid rgb(204, 162, 23);
+    margin: 25px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    width: 252px;
+    height: 36px;
+    font-size: 18px;
+    letter-spacing: 4px;
+    line-height: 34px;
+    color: #eaa258;
+    font-weight: 700;
+
+    
+}
